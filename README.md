@@ -1,6 +1,6 @@
 This is my first game Tic-tac-toe which includes ReactJs as its Tech Stack.
 
-Here are some of Technical Stuffs:
+Here are some of Technical Stuffs:<br />
 This project was bootstrapped with [Create React App]
 
 ## Available Scripts
